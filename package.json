@@ -2,9 +2,9 @@
   "name": "template",
   "version": "1.0.0",
   "description": "",
-  "main": "assets/js/phaelis.js",
+  "main": "./assets/js/phaelis.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "start": "node ./assets/js/phaelis.js"
   },
   "author": "",
   "license": "ISC"
